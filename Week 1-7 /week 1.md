@@ -1,13 +1,11 @@
-Soal nomor 3
+Soal 2 MEMBUAT KOPI
 1. Mulai
-2. Ambil satu bola di dalam kotak hitam dan taroh kedalam wadah pertama
-3. Ambil bola ke dua di dalam kotak hitam dan taroh kedalam wadah kedua
-4. Ambil bola ke tiga di dalam kotak hitam dan taroh kedalam wadah ketiga
-5. Jika sudah terdapat 3 bola maka urutkan bola tersebut dari terkecil dan terbesar
-6. Selesai
-
-Cara simpel
-1. Mulai
-2. Ambil satu buah bola sebagai sempel terlebih dahulu ke dalam wadah
-3. Membuat sebuah asumsi dengan logika sebagai berikut, jika lebel angka bola yang di ambil lebih besar dari bola sebelum maka taroh kanan jika bola lebih kecil dari sampel maka bola di taruh di kiri
-4. Selesai
+2. Selagi kopi dan gula masih tersedia
+3. Ambil satu cangkir kertas.
+4. Masukkan satu sendok kopi ke dalam cangkir.
+5. Masukkan satu sendok gula ke dalam cangkir.
+6. Tuangkan air panas dari dispenser ke dalam cangkir.
+7. Aduk campuran kopi, gula, dan air panas dengan sendok hingga larut.
+8. Sajikan kopi
+9. Jika ketersedian kopi dan gula sudah habis hentikan pembuatan kopi
+10. Selesai
